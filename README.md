@@ -1,7 +1,8 @@
 # speedtyper
 This script is a simple typing test that prompts the user to type a passage of text as quickly and accurately as possible. It calculates the user's words per minute (WPM) score and displays it, along with the number of mistakes made. The script also maintains a list of high scores.
 
-#Dependencies
+# Dependencies
+
 This script requires the following libraries:
 
 time
@@ -21,7 +22,7 @@ The script will prompt the user for the URL of the webpage to scrape and display
 
 The script will repeat this process until the user exits the program by pressing CTRL + C.
 
-#Customization
+# Customization
 You can customize the following aspects of the script:
 
 The chunk size (the number of characters displayed at a time) can be modified by changing the chunk_size variable.
