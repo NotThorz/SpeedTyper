@@ -15,7 +15,7 @@ bs4
 To run the script, simply execute it in your terminal:
 
 
-python typing_test.py
+python speedtyping.py
 
 
 The script will prompt the user for the URL of the webpage to scrape and display the text to type. After the user has finished typing, it will display their WPM score and the number of mistakes made. The user can then enter their name to save their score in the high scores list.
